@@ -6,7 +6,7 @@
 ![](docs/notify_notes.jpg)
 
 ## Structure
-* database: sql querys to construct the database of the web page in mysql.\
+* database: sql querys to construct the database of the web page in mysql.
 * node-modules: all the nodemon installed modules.\
 * src: code of the web server.\
   * lib: helpers.\
