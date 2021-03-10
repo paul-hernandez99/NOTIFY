@@ -6,7 +6,7 @@ NOTIFY is a web page for taking and managing notes. Developed with Nodejs, Expre
 ![](docs/notify_notes.jpg)
 
 ## Structure
--Database: sql querys to construct the database of the web page in mysql.\
+*Database: sql querys to construct the database of the web page in mysql.\
 -node-modules: all the nodemon installed modules.\
 -src: code of the web server.\
 --lib: helpers.\
