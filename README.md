@@ -16,3 +16,6 @@
 * **database.js**: makes the connection with the database.
 * **index.js**: is the main file. The web server is created and configured in this file. From here all the other files are required.
 * **keys.js**: all keys used in the application are stored here.
+
+## Comand
+* npm run dev
